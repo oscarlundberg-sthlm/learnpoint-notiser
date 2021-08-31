@@ -1,0 +1,12 @@
+{
+    "learnpoint": {
+        "username": "john-doe",
+        "password": "123"
+    },
+    "email": {
+        "sendername": "John Doe",
+        "emailaddress": "johndoe@example.com",
+        "username": "johndoe@example.com",
+        "password": "123"
+    }
+}
